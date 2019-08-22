@@ -8,7 +8,7 @@
 
 import UIKit
 
-// Testing git
+// Testing the git system
 
 class ViewController: UIViewController {
 
